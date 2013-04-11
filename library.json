@@ -9,7 +9,7 @@
   "author": "Frode Petterson",
   "preloadedJs": [
     {
-      "path": "scripts/drag-N-sort.js"
+      "path": "scripts/drag-n-sort.js"
     }
   ],
   "preloadedDependencies": [
